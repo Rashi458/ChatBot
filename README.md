@@ -1,4 +1,4 @@
-# vectordb-llm-streamlit-app
+#AskMyFile
 
 This project is a Streamlit application that allows users to upload PDF documents, convert them into embeddings, and interact with a local language model (LLM) to retrieve information based on the content of the PDFs.
 
