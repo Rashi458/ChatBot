@@ -4,8 +4,7 @@ This project is a Streamlit application that allows users to upload PDF document
 
 ## Project Structure
 
-```
-vectordb-llm-streamlit-app
+```AskMyFile	
 ├── src
 │   ├── app.py                  # Main entry point for the Streamlit application
 │   ├── pdf_to_embeddings.py     # Functions to convert PDFs into embeddings
@@ -23,7 +22,7 @@ vectordb-llm-streamlit-app
 1. **Clone the repository:**
    ```
    git clone <repository-url>
-   cd vectordb-llm-streamlit-app
+   cd AskMyFile	
    ```
 
 2. **Create a virtual environment:**
