@@ -1,0 +1,10 @@
+# Company Account
+Host github.com-dev
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519
+# Personal Account
+Host github.com-personal
+    HostName github.com
+    User git
+    IdentityFile ~/.ssh/id_ed25519_personal

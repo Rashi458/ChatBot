@@ -1,11 +1,11 @@
-# vectordb-llm-streamlit-app
+# 
 
 This project is a Streamlit application that allows users to upload PDF documents, convert them into embeddings, and interact with a local language model (LLM) to retrieve information based on the content of the PDFs.
 
 ## Project Structure
 
 ```
-vectordb-llm-streamlit-app
+chatbot
 ├── src
 │   ├── app.py                  # Main entry point for the Streamlit application
 │   ├── pdf_to_embeddings.py     # Functions to convert PDFs into embeddings
